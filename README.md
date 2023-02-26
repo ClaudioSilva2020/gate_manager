@@ -1,4 +1,5 @@
 # gate_manager
+<<<<<<< HEAD
 
 A new Flutter project.
 
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+This is a flutter app to control a gate.
+>>>>>>> c69d9a8667459f7e6533ca94f824081efdfca415
